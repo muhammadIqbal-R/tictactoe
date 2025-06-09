@@ -1,1 +1,2 @@
-# tictactoe
+# Muhammad Iqbal Rahmananda 
+# Rowin Tegar
